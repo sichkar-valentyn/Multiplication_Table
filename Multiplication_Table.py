@@ -25,7 +25,7 @@ print('\t', end='')
 for i in range(c, d):
     print(i, end='\t')
 
-# Sowing the last number in the interval [c, d]
+# Showing the last number in the interval [c, d]
 print(d)
 
 # Creating the header's column
