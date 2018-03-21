@@ -1,3 +1,15 @@
+# File: Multiplication_Table.py
+# Description: Simple example of multiplication table and how to use loops and tabulation in Python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Multiplication Table in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Multiplication_Table (date of access: XX.XX.XXXX)
+
+
 # First interval, that is header's column:
 a = int(input())
 b = int(input())
