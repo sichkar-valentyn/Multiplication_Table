@@ -1,5 +1,5 @@
 # Multiplication Table
-Simple example of multiplication table and how to use loops and tabulation in Python
+Simple example of Multiplication Table and how to use loops and tabulation in Python
 
 ### Reference to:
 [1] Valentyn N Sichkar. Multiplication Table in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Multiplication_Table (date of access: XX.XX.XXXX)
