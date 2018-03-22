@@ -1,5 +1,5 @@
 # File: Multiplication_Table.py
-# Description: Simple example of multiplication table and how to use loops and tabulation in Python
+# Description: Simple example of Multiplication Table and how to use loops and tabulation in Python
 # Environment: PyCharm and Anaconda environment
 #
 # MIT License
