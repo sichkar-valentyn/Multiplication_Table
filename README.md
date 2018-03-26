@@ -13,7 +13,7 @@ To separate the elements inside the string, the '\t' tab character is used.
 The left column and the top row display the numbers from the specified segments - the header's column and the header's row.
 
 ## Multiplication Table
-![Results](images/Multiplication_Table.png)
+![Multiplication_Table](images/Multiplication_Table.png)
 
 ## MIT License
 ## Copyright (c) 2018 Valentyn N Sichkar
