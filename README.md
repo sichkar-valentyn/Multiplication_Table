@@ -1,6 +1,9 @@
 # Multiplication Table
 Simple example of Multiplication Table and how to use loops and tabulation in Python
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Multiplication Table in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Multiplication_Table (date of access: XX.XX.XXXX)
 
